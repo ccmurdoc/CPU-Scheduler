@@ -1,0 +1,31 @@
+Process 	Arrival Time	Burst Time	Priority	Completion Time   	Waiting Time 	Turnaround Time
+
+1		3		3		5		3			-3		0
+2		7		4		4		4			-1		3
+3		8		1		10		8			-1		0
+4		12		2		4		10			0		2
+5		15		3		5		13			-1		2
+6		20		4		5		14			2		6
+7		26		3		5		20			3		6
+8		28		3		3		23			2		5
+9		31		2		8		25			4		6
+10		32		2		7		27			3		5
+11		32		4		5		28			0		4
+12		33		1		7		32			0		1
+13		34		1		9		33			0		1
+14		36		1		2		34			1		2
+15		37		2		8		36			-1		1
+
+_________________________________________________________
+
+             Statistics for the RUN
+
+     Number of processes: 15
+     Total Elapsed time:  50625 ms 
+     Average Waiting Time = 7012308
+     Average Turn Around time = 7012132     Throughput = 0.000296296
+     CPU utilization =  Usage: -5.56289e+245%   Idle: 5.56289e+245%
+     Average Waiting Time = 467487 ms
+     Average Turnaround Time = 467475 ms
+     Average response time = 18.2667ms
+_________________________________________________________

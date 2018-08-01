@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1531964921 source:z:\cs\cs471\cs471\main.cpp
-	<stdio.h>
-	<iomanip>
-	<math.h>
-	<iostream>
-	<chrono>
-
