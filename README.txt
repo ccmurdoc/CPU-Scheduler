@@ -1,8 +1,7 @@
+#CPU Scheduler for: FCFS, SJF with preemption, RR (with specified time quantum), and Priority with preemption
 Instructions for CPU Scheduling
 Authors: James Lopez
 	 Chantal Murdock
-
-#CPU Scheduler for: FCFS, SJF with preemption, RR (with specified time quantum), and Priority with preemption
 
 Read these instructions carefully.
 
